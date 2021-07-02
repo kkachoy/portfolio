@@ -1,0 +1,36 @@
+#top
+{
+    width: 800px;
+    height: 150px;
+    background-color: aquamarine;
+}
+
+#left
+{
+    width: 200px;
+    height: 700px;
+    background-color: cadetblue;
+    float: left;
+    
+}
+
+#mid
+{
+    width: 600px;
+    height: 700px;
+    background-color: lightpink;
+    float: left;
+}
+
+input text
+{
+    width: 10px;
+}
+
+#bottom
+{
+    width: 800px;
+    height: 100px;
+    background-color: lightsteelblue;
+    clear: left;
+}
